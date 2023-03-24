@@ -1,6 +1,7 @@
 [
     {
       "domainName":"tech-meet.com",
-      "estmatedValue":700
+      "estmatedValue":700,
+      "primary":true
     }
 ]
