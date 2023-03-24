@@ -2,6 +2,7 @@
     {
       "domainName":"tech-meet.com",
       "estmatedValue":700,
-      "primary":true
+      "primary":true,
+      "buyNowUrl":"https://www.godaddy.com/domainsearch/find?checkAvail=1&domainToCheck=tech-meet.com"
     }
 ]
