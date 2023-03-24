@@ -4,5 +4,11 @@
       "estmatedValue":700,
       "primary":true,
       "buyNowUrl":"https://www.godaddy.com/domainsearch/find?checkAvail=1&domainToCheck=tech-meet.com"
+    },
+    {
+      "domainName":"hotel-verse.com",
+      "estmatedValue":150,
+      "primary":true,
+      "buyNowUrl":"https://www.godaddy.com/domainsearch/find?checkAvail=1&domainToCheck=hotel-verse.com"
     }
 ]
