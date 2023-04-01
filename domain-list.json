@@ -9,6 +9,11 @@
       "estmatedValue":50,
       "buyNowUrl":"https://www.godaddy.com/domainsearch/find?checkAvail=1&domainToCheck=hotel-verse.com"
     },
+        {
+      "domainName":"offerbanking.com",
+      "estmatedValue":150,
+      "buyNowUrl":"https://www.godaddy.com/domainsearch/find?checkAvail=1&domainToCheck=offerbanking.com"
+    },
     {
       "domainName":"localhost",
       "estmatedValue":100000,
