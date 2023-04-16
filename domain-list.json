@@ -19,7 +19,7 @@
     },
     {
       "domainName":"localhost",
-        "price":100000,
+        "price":1000,
       "estmatedValue":100000,
       "buyNowUrl":"https://www.godaddy.com/domainsearch/find?checkAvail=1&domainToCheck=hotel-verse.com"
     }
